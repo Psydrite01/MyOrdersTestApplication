@@ -2,6 +2,8 @@
 
 A simple Android application for viewing and managing orders, developed as an internship assessment.
 
+Demo video: https://drive.google.com/file/d/1HgT3kmu4krixXjmS1-yHinuSE3ptK81x/view?usp=sharing
+
 ## Features
 
 - **Orders List**: View all orders with filtering options (All, Completed, Cancelled, Booked Again)
